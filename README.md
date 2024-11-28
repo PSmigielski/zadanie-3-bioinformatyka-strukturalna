@@ -47,5 +47,4 @@ python cg_to_pdb.py --input <input_pdb_file> --output <output_pdb_file>
 ## Alignment Score (RMSD)
 
 Below is the alignment score (RMSD) comparing the original structure with the reconstructed one:
-
-[](tmp.png)
+![Alt text](https://github.com/PSmigielski/zadanie-3-bioinformatyka-strukturalna/blob/master/tmp.png)
